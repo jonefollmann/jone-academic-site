@@ -1,7 +1,7 @@
 ---
 title: Jone Follmann
-role: PhD Student
-avatar_filename: jone3x4.jpg
+role: Ph.D. Student
+avatar_filename: avatar.jpg
 #bio: My research interests include distributed robotics, mobile computing and
 #  programmable matter.
 interests:
@@ -51,6 +51,5 @@ first_name: Jone
 email: ""
 ---
 
-Jone is a PhD. student in biomedical engineering in the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Since graduating in Computer Engineering, she has maintained a keen interest in developing medical technology. Her current focus revolves around the development of approaches inspired by the functionality of the human body for addressing issues in robotic hands, utilizing pulsed neural networks. These bioinspired methodologies aim to harness the advantages of human mechanisms as a source of inspiration, thereby enhancing the efficiency of machines and their processes. Jone are interested in developing solutions in the medical field, as well as in the realms of robotics, machine learning, spike-based machine learning, and neuromorphic hardware.
+Jone is a PhD. student in biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Since graduating in Computer Engineering, she has maintained a keen interest in developing medical technology. Her current focus revolves around the development of approaches inspired by the functionality of the human body for addressing issues in robotic hands, utilizing pulsed neural networks. These bioinspired methodologies aim to harness the advantages of human mechanisms as a source of inspiration, thereby enhancing the efficiency of machines and their processes. Jone are interested in developing solutions in the medical field, as well as in the realms of robotics, machine learning, spike-based machine learning, and neuromorphic hardware.{style="text-align: justify; text-justify: distribute;"}
 
-{style="text-align: justify;"}
