@@ -7,14 +7,13 @@ avatar_filename: avatar.jpg
 interests:
   - Biomedical Engineering
   - Machine Learning
-  - Neuromorphic Hardwares
+  - Neuromorphic Engineering
   - Robotic
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: orcid
-  #graduation-cap
+  - icon: graduation-cap
     icon_pack: fas
     link: https://orcid.org/0009-0004-5890-6726
   - icon: github
@@ -53,5 +52,5 @@ email: ""
 ---
 
 Jone is a PhD. student in biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Since graduating in Computer Engineering, he has maintained a keen interest in developing medical technology. Her current focus revolves around the development of approaches inspired by the functionality of the human body for addressing issues in robotic hands, utilizing pulsed neural networks. These bioinspired methodologies aim to harness the advantages of human mechanisms as a source of inspiration, thereby enhancing the efficiency of machines and their processes. Jone are interested in developing solutions in the medical field, as well as in the realms of robotics, machine learning, spike-based machine learning, and neuromorphic hardware.
-{style="font-size: 0.1em;width: 97%;text-align: justify;"}
+{style="font-size: 1.0em;width: 97%;text-align: justify;"}
 
