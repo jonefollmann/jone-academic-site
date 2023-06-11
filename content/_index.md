@@ -219,9 +219,10 @@ sections:
       address:
       #  street: 450 Serra Mall
         city: Florianópolis
-        region: SC
+        region: Brazil
+      #  country: Brazil
       #  postcode: '94305'
-        country: Brazil
+        
         country_code: BR
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
