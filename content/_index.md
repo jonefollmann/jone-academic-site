@@ -216,13 +216,13 @@ sections:
       #phone: 888 888 88 88
       #appointment_url: 'https://calendly.com'
       
-      #address:
+      address:
       #  street: 450 Serra Mall
-      #  city: Stanford
-      #  region: CA
+        city: Florianópolis
+        region: SC
       #  postcode: '94305'
-      #  country: United States
-      #  country_code: US
+        country: Brazil
+        country_code: BR
       #directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       #office_hours:
       #  - 'Monday 10:00 to 13:00'
