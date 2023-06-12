@@ -106,6 +106,8 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+  custom:
+    enable: true
 
 # Security
 

@@ -17,7 +17,7 @@ sections:
       items:
         - name: Machine Learning
           #description: 90%
-          icon: brain-circuit
+          icon: brain
           icon_pack: fab
         - name: Data Science
           #description: 100%

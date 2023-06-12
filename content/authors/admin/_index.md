@@ -13,8 +13,8 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: orcid
+    icon_pack: ai
     link: https://orcid.org/0009-0004-5890-6726
   - icon: github
     icon_pack: fab
