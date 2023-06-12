@@ -17,8 +17,8 @@ sections:
       items:
         - name: Machine Learning
           #description: 90%
-          icon: brain
-          icon_pack: fab
+          icon: machine-learning
+          icon_pack: custom
         - name: Data Science
           #description: 100%
           icon: cloud-binary
@@ -31,6 +31,10 @@ sections:
           #description: 10%
           icon: user-doctor
           icon_pack: fab
+         - name:
+          #description: 10%
+          #icon: microchip
+          #icon_pack: fab
         - name: Hardware Development
           #description: 10%
           icon: microchip
