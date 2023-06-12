@@ -15,18 +15,26 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Machine Learning
+          #description: 90%
+          icon: brain-circuit
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+        - name: Data Science
+          #description: 100%
+          icon: cloud-binary
+          icon_pack: fab
+        - name: Software Development
+          #description: 10%
+          icon: laptop-code
+          icon_pack: fab
+        - name: Biomedical Engineering
+          #description: 10%
+          icon: user-doctor
+          icon_pack: fab
+        - name: Hardware Development
+          #description: 10%
+          icon: microchip
+          icon_pack: fab
   - block: experience
     content:
       title: Experience
