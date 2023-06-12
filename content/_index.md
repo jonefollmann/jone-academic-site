@@ -31,7 +31,7 @@ sections:
           #description: 10%
           icon: user-doctor
           icon_pack: fab
-         - name:
+        - name:
           #description: 10%
           #icon: microchip
           #icon_pack: fab
