@@ -21,7 +21,7 @@ sections:
           icon_pack: custom
         - name: Data Science
           #description: 100%
-          icon: data-sience
+          icon: data-science
           icon_pack: custom
         - name: Software Development
           #description: 10%
@@ -29,7 +29,7 @@ sections:
           icon_pack: custom
         - name: Biomedical Engineering
           #description: 10%
-          icon: heat-beat
+          icon: heart-beat
           icon_pack: custom
         - name:
           #description: 10%
