@@ -18,7 +18,7 @@ sections:
         - name: Machine Learning
           #description: 90%
           icon: ml
-          #icon_pack: custom
+          icon_pack: custom
         - name: Data Science
           #description: 100%
           icon: 
