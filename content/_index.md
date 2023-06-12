@@ -17,8 +17,8 @@ sections:
       items:
         - name: Machine Learning
           #description: 90%
-          icon: machine-learning
-          icon_pack: custom
+          icon: ml
+          #icon_pack: custom
         - name: Data Science
           #description: 100%
           icon: cloud-binary
