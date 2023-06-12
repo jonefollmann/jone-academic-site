@@ -21,7 +21,7 @@ sections:
           #icon_pack: custom
         - name: Data Science
           #description: 100%
-          icon: cloud-binary
+          icon: 
           icon_pack: fab
         - name: Software Development
           #description: 10%
