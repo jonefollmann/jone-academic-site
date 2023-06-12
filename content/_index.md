@@ -21,24 +21,24 @@ sections:
           icon_pack: custom
         - name: Data Science
           #description: 100%
-          icon: 
-          icon_pack: fab
+          icon: data-sience
+          icon_pack: custom
         - name: Software Development
           #description: 10%
-          icon: laptop-code
-          icon_pack: fab
+          icon: soft
+          icon_pack: custom
         - name: Biomedical Engineering
           #description: 10%
-          icon: user-doctor
-          icon_pack: fab
+          icon: heat-beat
+          icon_pack: custom
         - name:
           #description: 10%
           #icon: microchip
           #icon_pack: fab
         - name: Hardware Development
           #description: 10%
-          icon: microchip
-          icon_pack: fab
+          icon: chip
+          icon_pack: custom
   - block: experience
     content:
       title: Experience
