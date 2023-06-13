@@ -54,7 +54,7 @@ sections:
         - title: Ph.D Researcher
           company: Federal University of Santa Catarina
           company_url: 'https://ufsc.br'
-          company_logo: org-gc
+          company_logo: org-ufsc
           location: Florianópolis, Brazil
           date_start: '2023-05-02'
           date_end: ''
@@ -76,7 +76,7 @@ sections:
         - title: Software Developer
           company: Unimed Região da Campanha
           company_url: 'https://www.unimed.coop.br/site/web/regiaodacampanha'
-          company_logo: org-ufsc
+          company_logo: org-unimed
           location: Bagé, Brazil
           date_start: '2020-05-01'
           date_end: '2020-09-01'
