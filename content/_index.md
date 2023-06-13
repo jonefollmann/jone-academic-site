@@ -76,7 +76,7 @@ sections:
         - title: Software Developer
           company: Unimed Região da Campanha
           company_url: 'https://www.unimed.coop.br/site/web/regiaodacampanha'
-          company_logo: org-ufsc
+          company_logo: org-unimed
           location: Bagé, Brazil
           date_start: '2020-05-01'
           date_end: '2020-09-01'
