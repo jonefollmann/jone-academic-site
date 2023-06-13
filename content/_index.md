@@ -51,27 +51,46 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Ph.D Researcher
+          company: Federal University of Santa Catarina
+          company_url: 'https://ufsc.br'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Florianópolis, Brazil
+          date_start: '2023'
           date_end: ''
-          description: |2-
-              Responsibilities include:
+          #description: |2-
+          #    Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          #    * Analysing
+          #    * Modelling
+          #    * Deploying
+        - title: MSc Researcher
+          company: Federal University of Santa Catarina
+          company_url: 'https://ufsc.br'
+          company_logo: org-ufsc
+          location: Florianópolis, Brazil
+          date_start: '2021'
+          date_end: '2023'
+          description: Researcher in the field of biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). 
+
+            * Dissertation - Applications of spiking neural networks in signal processing of electronic tactile mechanoreceptors.
+          - title: Software Developer
+          company: Unimed Região da Campanha
+          company_url: 'https://www.unimed.coop.br/site/web/regiaodacampanha'
+          company_logo: org-ufsc
+          location: Bagé, Brazil
+          date_start: '05/2020'
+          date_end: '09/2020'
+          description: Internship in the IT Departament.
+
+            * Improvements, development and documentation of new modules in the company web system;
+          - title: Vice President and Business Director 
+          company: Pampec Jr. (Junior Company of Computer Engineering)
+          company_logo: org-pampec
+          location: Bagé, Brazil
+          date_start: '03/2018'
+          date_end: '06/2019'
+          #description:
     design:
       columns: '2'
   - block: accomplishments
