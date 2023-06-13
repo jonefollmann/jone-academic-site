@@ -71,7 +71,7 @@ sections:
           location: Florianópolis, Brazil
           date_start: '2021/02/02'
           date_end: '2023/17/03'
-          description: Researcher in the field of biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Dissertation in Applications of spiking neural networks in signal processing of electronic tactile mechanoreceptors.
+          #description: Researcher in the field of biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Dissertation in Applications of spiking neural networks in signal processing of electronic tactile mechanoreceptors.
           - title: Software Developer
           company: Unimed Região da Campanha
           company_url: 'https://www.unimed.coop.br/site/web/regiaodacampanha'
@@ -79,7 +79,7 @@ sections:
           location: Bagé, Brazil
           date_start: '2020/01/05'
           date_end: '2020/01/09'
-          description: Internship in the IT Departament. Improvements, development and documentation of new modules in the company web system;
+          #description: Internship in the IT Departament. Improvements, development and documentation of new modules in the company web system;
           - title: Vice President and Business Director 
           company: Pampec Jr. (Junior Company of Computer Engineering)
           company_logo: org-pampec
