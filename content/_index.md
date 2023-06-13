@@ -70,7 +70,7 @@ sections:
           company_logo: org-ufsc
           location: Florianópolis, Brazil
           date_start: '2021/02/02'
-          date_end: '2023/17/03'
+          #date_end: '2023/17/03'
           #description: Researcher in the field of biomedical engineering at the Department of Electrical Engineering of UFSC (Federal University of Santa Catarina) within the Institute of Biomedical Engineering (IEB). Dissertation in Applications of spiking neural networks in signal processing of electronic tactile mechanoreceptors.
           - title: Software Developer
           company: Unimed Região da Campanha
