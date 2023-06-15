@@ -174,8 +174,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Rehabilitation
+          tag: Rehabilitation
         - name: Other
           tag: Demo
     design:
