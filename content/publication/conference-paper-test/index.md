@@ -12,10 +12,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - 'First Author'
 
 #date: '2023-06-01T00:00:00Z'
 doi: 'https://doi.org/10.14210/cotb.v11n1.p301-308'
@@ -30,8 +27,8 @@ doi: 'https://doi.org/10.14210/cotb.v11n1.p301-308'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Computer on The Beach 2020
-#publication_short: In *ICW*
+publication: In *Computer on The Beach* 2020
+publication_short: In *COTB* 2020
 
 abstract: The present study describes the proposal a solution computing based on the context of the Serious Game, to support in the process of physical rehabilitation of patients amputees of upper limbs. Therefore, when we developed a serious game PhysioPong, we expect that the proposal serves as a training tool, integrated into the technical monitoring of electromyography signal to assist inthe early stages of the rehabilitation process of these patients. Thistraining as physically strengthens the muscles so that they canlater be protected, as well as provide the patient with a motivatorenvironment for the treatment. Furthermore, another tool functionalityis to create an environment for physical therapists to followthe progress of these individuals over the rehabilitation process.Nowadays, serious games have had been employed as a tool thatcan be used for several purposes, bringing a ludic experience ofthe players. The PhysioPong was developed by using the Unitygame engine, combined with a sensor node module that aims tocollect data from the myoelectric signals generates by a muscularcontraction of an individual, being possible to perform actions ina game. To further measure the present purpose have been performinga usability test, furthermore scientific experiments withamputees patients. These experiments were carried together byphysiotherapists of the physic rehabilitation service. The evaluationperformed about the tool indicated promising results with a usability and mechanic appropriated, basing the use of PhysioPong.
 
@@ -51,9 +48,9 @@ featured: true
 url_pdf: 'https://periodicos.univali.br/index.php/acotb/article/view/16783'
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
 #url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 #url_video: 'https://youtube.com'
 
@@ -69,8 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+#projects:
+#  - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
