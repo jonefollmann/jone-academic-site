@@ -206,14 +206,26 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
+      date_format: Jan 2006
+      # Experiences.
+      #   Add/remove as many `experience` items below as you like.
+      #   Required fields are `title`, `company`, and `date_start`.
+      #   Leave `date_end` empty if it's your current employer.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - title: Check my ORCID
+          company: ORCID
+          company_url: 'https://orcid.org/0009-0004-5890-6726'
+          #company_logo: org-ufsc
+
+      #text: |-
+      #  {{% callout note %}}
+      #  Quickly discover relevant content by [filtering publications](./publication/).
+      #  {{% /callout %}}
+      #filters:
+      #  folders:
+      #    - publication
+      #  exclude_featured: true
     design:
       columns: '2'
       view: citation
