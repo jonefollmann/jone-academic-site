@@ -206,7 +206,6 @@ sections:
   - block: collection
     content:
       title: Recent Publications
-      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -228,7 +227,7 @@ sections:
       #  exclude_featured: true
     design:
       columns: '2'
-      view: citation
+      #view: citation
   #- block: collection
   #  id: talks
   #  content:
